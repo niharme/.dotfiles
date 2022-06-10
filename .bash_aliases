@@ -9,3 +9,5 @@ alias vd='deactivate'
 alias cpv='rsync -ah --info=progress2'
 
 alias tcn='mv --force -t ~/.local/share/Trash'
+
+alias ..='cd ..'
